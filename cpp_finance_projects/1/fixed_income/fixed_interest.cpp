@@ -1,3 +1,5 @@
+// V = P(1+R)
+
 #include <iostream>
 class IntRate{
 public:
